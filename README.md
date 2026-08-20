@@ -6,4 +6,5 @@ https://ai.ueh.edu.vn/tin-tuc/featured/sang-tao-cong-nghe-cung-sinh-vien-chau-a-
 
 The project my team did was an autonomous car focusing on delivering medicine, daily checking and advising patients. Helping to reduce workload and stress for nurse and doctors, improving efficiency and better managing.
 
+I couldn't upload the agent and database of my model due to the limit of storage.
 <img width="2712" height="1220" alt="1756953034507_200155156651856805_8456478293973415993_0ce3707645224fd67ea1db8a0ff68025" src="https://github.com/user-attachments/assets/e9bb7998-f380-4ffc-8d96-c02eab6d7a6d" />
